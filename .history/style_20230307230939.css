@@ -1,0 +1,48 @@
+body {
+  margin : 0;
+  padding : 10px;
+  height: 100%;
+  width: 100%;
+  min-width : 400px;
+}
+input{
+   width : 100%; 
+  border :1px solid green;
+  box-sizing : border-box;
+    height  :37px;
+    
+}
+button{
+/*   margin-right */
+  margin-top:5px;
+  background-color :green ;
+  border : 0px;
+  color: white;
+  height  :30px;
+}
+ul{
+  list-style: none;
+  color : green;
+  padding-left : 0px ; 
+    margin: 5px;
+  
+}
+li{
+  color :green ;
+  
+  margin: 5px; 
+  
+}
+a{
+  
+  color :green ;
+}
+#delete{
+
+  margin-top:5px;
+  background-color :white ;
+  border : 1px solid green;
+  color:green;
+  height  :30px;
+  
+}
